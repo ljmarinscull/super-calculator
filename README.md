@@ -1,4 +1,4 @@
-# icalculator
+# Web Calculator based on Samsung Galaxy A70 Calculator
 
 ## Project setup
 ```
